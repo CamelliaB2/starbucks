@@ -1,0 +1,243 @@
+{"balance":20,"cardCode":"923","cardNumber":"411288853","activated":false,"status":"New Card"}
+New Card: 411288853[923] Balance: 20.0
+Status: 200 
+{"balance":20,"cardCode":"923","cardNumber":"411288853","activated":true,"status":"New Card"}
+============================================
+--------- D E V I C E  S T A T E  ----------
+============================================
+Pin Option    = 4
+Stored Pin    = 1234
+Authenticated = false
+Orientation   = PORTRAIT
+API URL       = http://35.238.243.163/api
+API KEY       = 2H3fONTa8ugl1IcVS7CjLPnPIS2Hp9dJ
+API Register  = 5012349
+============================================
+Screen: starbucks.Passcode
+Screen: starbucks.Spacer
+Screen: starbucks.KeyPad
+KeyPad Touched at (1, 5)
+Key: 1
+Key: 1 Count: 1
+Current State: starbucks.OnePinDigit
+D1 = 1
+D2 = 
+D3 = 
+D4 = 
+KeyPad Touched at (2, 5)
+Key: 2
+Key: 2 Count: 2
+Current State: starbucks.TwoPinDigits
+D1 = 1
+D2 = 2
+D3 = 
+D4 = 
+KeyPad Touched at (3, 5)
+Key: 3
+Key: 3 Count: 3
+Current State: starbucks.ThreePinDigits
+D1 = 1
+D2 = 2
+D3 = 3
+D4 = 
+KeyPad Touched at (1, 6)
+Key: 4
+Key: 4 Count: 4
+Current State: starbucks.FourPinDigits
+D1 = 1
+D2 = 2
+D3 = 3
+D4 = 4
+Authenticating...
+Successful Login!
+l: 10
+w: 15
+h: 15
+DEBUG: ¤20.00
+
+cnt1: 1
+pad1: 4
+....
+DEBUG: [Ljava.lang.String;@21e360a 1
+line (before): ¤20.00 [len = 6]
+line (after):      ¤20.00 [pad = 5]
+cnt2: 5
+pad2: 5
+.....
+
+
+0: ===============
+1:    MyCards
+2: ===============
+3: 
+4: 
+5: 
+6: 
+7:      ¤20.00
+8: 
+9: 
+10: 
+11: 
+12: 
+13: 
+14: ===============
+15: [A][B][C][D][E]
+Value: [Ljava.lang.String;@58d75e99
+l: 10
+w: 15
+h: 15
+DEBUG: [411288853]
+
+
+Scan Now
+
+cnt1: 4
+pad1: 3
+...
+DEBUG: [Ljava.lang.String;@bae7dc0 4
+line (before): [411288853] [len = 11]
+line (after):   [411288853] [pad = 2]
+line (before):  [len = 0]
+line (after):          [pad = 8]
+line (before):  [len = 0]
+line (after):          [pad = 8]
+line (before): Scan Now [len = 8]
+line (after):     Scan Now [pad = 4]
+cnt2: 7
+pad2: 3
+...
+
+
+0: ===============
+1:   MyCardsPay
+2: ===============
+3: 
+4: 
+5: 
+6:   [411288853]
+7:         
+8:         
+9:     Scan Now
+10: 
+11: 
+12: 
+13: 
+14: ===============
+15: [A][B][C][D][E]
+Value: [Ljava.lang.String;@209da20d
+{"balance":16.84,"cardCode":"923","cardNumber":"411288853","activated":true,"status":"New Card"}
+l: 10
+w: 15
+h: 15
+DEBUG: [411288853]
+
+
+Scan Now
+
+cnt1: 4
+pad1: 3
+...
+DEBUG: [Ljava.lang.String;@1b2abca6 4
+line (before): [411288853] [len = 11]
+line (after):   [411288853] [pad = 2]
+line (before):  [len = 0]
+line (after):          [pad = 8]
+line (before):  [len = 0]
+line (after):          [pad = 8]
+line (before): Scan Now [len = 8]
+line (after):     Scan Now [pad = 4]
+cnt2: 7
+pad2: 3
+...
+
+
+0: ===============
+1:   MyCardsPay
+2: ===============
+3: 
+4: 
+5: 
+6:   [411288853]
+7:         
+8:         
+9:     Scan Now
+10: 
+11: 
+12: 
+13: 
+14: ===============
+15: [A][B][C][D][E]
+Value: [Ljava.lang.String;@6392827e
+l: 10
+w: 15
+h: 15
+DEBUG: [411288853]
+
+
+Scan Now
+
+cnt1: 4
+pad1: 3
+...
+DEBUG: [Ljava.lang.String;@2ed2d9cb 4
+line (before): [411288853] [len = 11]
+line (after):   [411288853] [pad = 2]
+line (before):  [len = 0]
+line (after):          [pad = 8]
+line (before):  [len = 0]
+line (after):          [pad = 8]
+line (before): Scan Now [len = 8]
+line (after):     Scan Now [pad = 4]
+cnt2: 7
+pad2: 3
+...
+
+
+0: ===============
+1:   MyCardsPay
+2: ===============
+3: 
+4: 
+5: 
+6:   [411288853]
+7:         
+8:         
+9:     Scan Now
+10: 
+11: 
+12: 
+13: 
+14: ===============
+15: [A][B][C][D][E]
+l: 10
+w: 15
+h: 15
+DEBUG: ¤16.84
+
+cnt1: 1
+pad1: 4
+....
+DEBUG: [Ljava.lang.String;@d5b810e 1
+line (before): ¤16.84 [len = 6]
+line (after):      ¤16.84 [pad = 5]
+cnt2: 5
+pad2: 5
+.....
+
+
+0: ===============
+1:    MyCards
+2: ===============
+3: 
+4: 
+5: 
+6: 
+7:      ¤16.84
+8: 
+9: 
+10: 
+11: 
+12: 
+13: 
+14: ===============
+15: [A][B][C][D][E]
